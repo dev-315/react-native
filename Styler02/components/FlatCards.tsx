@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
         width: 100,
         height: 100,
         borderRadius:4,
-        margin: 8
+        margin: 8,
     },
     cardOne:{
         backgroundColor: '#EF5354',
